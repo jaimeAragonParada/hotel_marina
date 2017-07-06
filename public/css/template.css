@@ -1,0 +1,9 @@
+
+.headerTemplate{
+	margin-top: -20px;
+}
+.footerTemplate{
+	margin-top: 40px;
+	border-top: 2px solid #D3D3D3;
+	height: 100%;
+}
